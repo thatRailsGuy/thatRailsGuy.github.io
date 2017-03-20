@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "Job Experience at Epic"
+subtitle:   "My experience straight out of college"
+date:       2017-03-15 11:36:00
+author:     "Clint Cecil"
+header-img: "img/post-bg-06.jpg"
+---
+
+In 2010, with no idea where to even begin looking for a job, I started searching the internet for where to go make my fortune. After a short time of looking online at different positions and realizing there was not much to choose from in Western MD and the surrounding areas, [Epic](http://www.epic.com) in Verona, WI contacted me regarding my resume posted online.
+
+I had never thought of Wisconsin as a place I would ever want to visit, let alone live, but decided to go check out both the area and the company. As soon as I got to Madison I loved it.
+
+Once through the interview process, I packed up my belongings and some furniture collected from yard sales and moved to Madison. I started as a programmer in September of 2010.
+
+When I started at Epic, I was one of a couple hundred hired around that time. We studied a variety of topics like version control and internal processes for code review. I learned the importance of coding standards when working in a large organization.
+
+I was assigned to the Kaleidoscope team which worked on the product for Ophthalmologists. This was an interesting product and I was happy to be a part of it. This was my first real experience working on a small team. (It also improved my spelling as I had never had to write out kaleidoscope or ophthalmology before.)
+
+After a while, I felt like the learning stopped and I was trapped using the dated technology their system was built on. I was afraid at the time I'd get pigeon-holed into working with the same technology for a prolonged period. My college friend Steffen contacted me with an offer of a job at CTAC and took it, although I missed Madison a lot.
+
+I think the experience at Epic was a good one. Most of my friends in Madison either work there or used to. I learned a lot and enjoyed living on my own in a strange city for the first time. I think if I were to go back I would enjoy it more and have more success with the maturity I've developed over the last several years.

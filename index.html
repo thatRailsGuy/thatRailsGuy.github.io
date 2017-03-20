@@ -1,116 +1,36 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <title>ClintCecil.com by thatRailsGuy</title>
-  </head>
+---
+layout: page
+description: "Software Engineer, Mathematician, Analyst"
+---
 
-  <body>
-    <div id="container">
-      <div class="inner">
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+</div>
+<hr>
+{% endfor %}
 
-        <header>
-          <h1>ClintCecil.com</h1>
-          <h2>Programmer, Mathematician, Analyst</h2>
-        </header>
-
-        <section id="downloads" class="clearfix">
-          <a href="https://github.com/thatRailsGuy" id="view-on-github" class="button"><span>View on GitHub</span></a>
-        </section>
-
-        <hr>
-
-        <section id="main_content">
-          <h2>
-<a name="around-the-web" class="anchor" href="#around-the-web"><span class="octicon octicon-link"></span></a>Around the Web:</h2>
-
-<ul>
-<li><a href="http://www.twitter.com/thatrailsguy">Twitter: @thatRailsGuy</a></li>
-<li><a href="http://www.linkedin.com/pub/clint-cecil/45/8b6/aa5">LinkedIn</a></li>
-<li><a href="https://github.com/thatRailsGuy/">Github</a></li>
-</ul><h2>
-<a name="education" class="anchor" href="#education"><span class="octicon octicon-link"></span></a>Education</h2>
-
-<ul>
-<li>M.S. Computer Science - 2010 - Frostburg State University</li>
-<li>B.S. Mathematics, Minor Computer Science - 2008 - Frostburg State University</li>
-</ul><h2>
-<a name="languages" class="anchor" href="#languages"><span class="octicon octicon-link"></span></a>Languages</h2>
-
-<ul>
-<li>Ruby on Rails</li>
-<li>Javascript</li>
-<li>HTML</li>
-<li>CSS</li>
-<li>Groovy and Grails</li>
-<li>Java</li>
-<li>MySQL</li>
-<li>Oracle</li>
-<li>Postgresql</li>
-<li>Jekyll</li>
-<li>Others</li>
-</ul><h2>
-<a name="skills" class="anchor" href="#skills"><span class="octicon octicon-link"></span></a>Skills</h2>
-
-<ul>
-<li>Git</li>
-<li>Subversion</li>
-<li>Agile / Scrum</li>
-<li>Template Design</li>
-<li>Number Theory</li>
-<li>Graph Theory</li>
-<li>Advanced Statistics</li>
-</ul><h2>
-<a name="projects" class="anchor" href="#projects"><span class="octicon octicon-link"></span></a>Projects</h2>
-
-<h4>
-<a name="open-source" class="anchor" href="#open-source"><span class="octicon octicon-link"></span></a>Open Source</h4>
-
-<ul>
-<li>
-<a href="http://poker.clintcecil.com">Poker</a> - <a href="http://github.com/thatrailsguy/poker">Source</a>
-</li>
-  <li><a href="http://weeklyapps.github.io">Weekly Apps</a></li>
-<li><a href="http://webcomic.clintcecil.com">Webcomic</a></li>
-<li><a href="https://github.com/thatrailsguy/basic-rails">Rails Skeleton Project</a></li>
-<li><a href="https://github.com/thatrailsguy/thatrailsguy.github.io">This Page</a></li>
-<li>
-<a href="https://github.com/thatrailsguy/euler">Project Euler Solutions</a> </li>
-</ul><p><img src="http://projecteuler.net/profile/umdmariachi.png" alt="Euler Status" title="Euler Status"></p>
-
-<h4>
-<a name="ctac" class="anchor" href="#ctac"><span class="octicon octicon-link"></span></a>CTAC</h4>
-
-<ul>
-<li><a href="http://www.paperworkreduction.gov">ICRAS</a></li>
-<li>Domain Tracker (internal)
-<a href="http://imgur.com/VMg05xi"><img src="http://i.imgur.com/VMg05xi.png" alt="" title="Hosted by imgur.com" width="610px"></a>
-</li>
-<li><a href="https://syndication.hhs.gov/">Syndication</a></li>
-<li>[DARMIS]</li>
-<li>Various other projects</li>
-</ul><h4>
-<a name="epic" class="anchor" href="#epic"><span class="octicon octicon-link"></span></a>Epic</h4>
-
-<ul>
-<li>Kaleidoscope (Ophthalmology)</li>
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
 </ul>
-        </section>
-
-        <footer>
-          This page was generated by <a href="http://pages.github.com">GitHub Pages</a>. Tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.
-        </footer>
-
-        
-      </div>
-    </div>
-  </body>
-</html>
+{% endif %}
