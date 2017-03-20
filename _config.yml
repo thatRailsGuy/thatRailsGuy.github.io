@@ -1,0 +1,26 @@
+# Site settings
+title: Clint Cecil.com
+header-img: img/home-bg.jpg
+email: clint@clintcecil.com
+copyright_name: ClintCecil.com
+description: "Software Engineer, Mathematician, Analyst"
+baseurl: ""
+url: "http://clintcecil.com"
+twitter_username: thatrailsguy
+github_username:  thatrailsguy
+facebook_username:
+email_username: clint@clintcecil.com
+linkedin_username: clint-cecil-aa58b645
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]

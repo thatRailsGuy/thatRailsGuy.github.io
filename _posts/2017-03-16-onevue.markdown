@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "Primex OneVue"
+subtitle:   "My experience writing a cloud based API"
+date:       2017-03-16 10:09:00
+author:     "Clint Cecil"
+header-img: "img/post-bg-06.jpg"
+---
+
+In 2014 after moving to Madison the previous year, I took a job with Primex after meeting Kevin Runde at the Madison Ruby meetup.
+
+Kevin compiled one of the best teams I have ever been a part of. We started with a team of one DevOps administrator, one Architect, three members of the "service team" to work on the back-end API, and two members of the "UI team" to build the JS website.
+
+[OneVue](https://www.primexonevue.com) is a system for both environmental monitoring and time solutions for B2B consumers mostly consisting of schools and health systems. For schools, there are clocks that set themselves based on an NTP server as well as update statuses of connection and battery level through the web interface. For hospitals, there are a variety of sensors to measure environmental factors like temperature and humidity. When a measurement goes out of range, we send notification emails, phone calls, and text messages to a list of users. We also keep detailed logs for compliance purposes.
+
+We started working on replacing the existing systems for Primex OneVue. We built from the ground up starting with some micro-services built in Ruby on Rails. Our rails apps deliver JSON exclusively. Between the front-end and the micro-services we have a bastion API. We have a separate ReactJS front-end that consumes the APIs through the bastion API.
+
+The OneVue system utilizes an impressive array of cloud technologies. We use EC2, VPC, S3, RDS, Cloudfront, Route 53, Cloudwatch, API Gateway, Kinesis, and SQS. We've worked with MySQL, Postgres, Redis, and DynamoDB with different parts of our application. We use Rails, Python, and JS for our programs.
+
+Working on this app was interesting as my first experience writing a pure API. Focusing on scalability and efficiency in processing the readings coming from our sensors is also an interesting proposition, as well as reliability for the customers.
