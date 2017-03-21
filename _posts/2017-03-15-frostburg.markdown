@@ -4,7 +4,7 @@ title:      "College Experience at Frostburg"
 subtitle:   "My college experiences"
 date:       2017-03-15 10:36:00
 author:     "Clint Cecil"
-header-img: "img/post-bg-06.jpg"
+header-img: "img/03-elk.jpg"
 ---
 
 

@@ -4,7 +4,7 @@ title:      "Job Experience at Epic"
 subtitle:   "My experience straight out of college"
 date:       2017-03-15 11:36:00
 author:     "Clint Cecil"
-header-img: "img/post-bg-06.jpg"
+header-img: "img/04-elk.jpg"
 ---
 
 In 2010, with no idea where to even begin looking for a job, I started searching the internet for where to go make my fortune. After a short time of looking online at different positions and realizing there was not much to choose from in Western MD and the surrounding areas, [Epic](http://www.epic.com) in Verona, WI contacted me regarding my resume posted online.

@@ -4,7 +4,7 @@ title:      "Job Experience at CTAC"
 subtitle:   "My experience working as a government contractor"
 date:       2017-03-16 10:09:00
 author:     "Clint Cecil"
-header-img: "img/post-bg-06.jpg"
+header-img: "img/05-elk.jpg"
 ---
 
 In 2011, after about a year at Epic, I decided to pack up and head back east to work with some college buddies at [CTAC](https://www.ctacorp.com/) in Fairfax, VA.

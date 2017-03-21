@@ -4,7 +4,7 @@ title:      "My AcuRite"
 subtitle:   "My experience working on a consumer facing API"
 date:       2017-03-16 14:38:00
 author:     "Clint Cecil"
-header-img: "img/post-bg-06.jpg"
+header-img: "img/10-yellowstone-river.jpg"
 ---
 
 Once OneVue launched, the team shifted to work on [My AcuRite](https://www.myacurite.com). My AcuRite is a site dedicated to home environmental monitoring using devices manufactured by Chaney Electronics under the AcuRite brand. Sensor types include temperature, humidity, wind speed and direction, rainfall, lightning proximity, light intensity, and water detection. The site offers monitoring that will notify users when sensors go out of range, useful for things like detecting freezing around pipes or the presence of water in a basement.
