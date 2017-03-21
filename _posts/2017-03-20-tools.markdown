@@ -1,0 +1,34 @@
+---
+layout:     post
+title:      "Tools"
+subtitle:   "My current technology stack"
+date:       2017-03-20 16:09:00
+author:     "Clint Cecil"
+header-img: "img/12-yellowstone-lake.jpg"
+---
+
+**[Macbook Pro](http://www.apple.com)** - The Macbook Pro has met every need I've had. I miss the expandable memory and storage of the older models though. I'm not sold on the new version of the Macbook Pro. I don't think I could go back to Windows full-time at this point though, although I do keep threatening to switch to a linux environment.
+
+**[iTerm2](https://www.iterm2.com/documentation-highlights.html)** - iTerm2 version 3 has many features that are of great use while programming. Features I use regularly include split panes (cmd-d and cmd-shift-d), cmd-click filenames to edit that file, and the paste history. There are more features than I can remember, and the app increases productivity almost instantly.
+
+**[Zsh](http://www.zsh.org/) & [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)** - Zsh improves upon bash in every way. Text completion is awesome. Path expansion improves navigation immeasurably. The improved command history functionality is also a huge time saver. Oh-my-zsh supports numerous plugins and themes for zsh.
+
+**[Git](https://git-scm.com/)** - Git is an easy to learn version control system for tracking changes in files worked on by multiple people. It was created by Linus for developing Linux. It is distributed so every git directory is a full-fledged repo.
+
+**[Github](http://www.github.com)** - Github has revolutionized the programming world. Nearly every major open source project is hosted on github.com. It has driven the adoption of git as the VCS to use. The feature set is copied on other sites such as [Bitbucket](http://www.bitbucket.org), but there's nothing quite as good as the original. It's free to use as long as your project is open to the public.
+
+**[Gist](http://gist.github.com)** - Github's little brother, a great site developed by the Github team to share snippets of code with full syntax highlighting and easy to use interface.
+
+**[Ruby on Rails](http://rubyonrails.org/)** - Ruby is my current programming language of choice, with Rails being the default framework for web development in Ruby. It's quick to get an app up and running and has matured to the point of having widespread support for whatever issues you run into.
+
+**[Bootstrap](http://www.getbootstrap.com)** - Bootstrap is the most popular web framework for building responsive projects. There are a variety of css themes but for prototyping using the default css is quick and easy.
+
+**[Atom](http://www.atom.io)** - Atom is a highly extensible IDE released by the team at Github. It works as well as anything I've used and requires less learning than vim.
+
+**[Postman](http://www.getpostman.com)** - Postman is a great tool for developing APIs. You can import and export saved API documentation and examples. The only feature I wish it had was the ability to sync with a git repo to share requests amongst a team.
+
+**[Chrome](http://chrome.google.com)** - Google's browser has a wide variety of plugins and a solid set of developer tools.
+
+**[Stack Overflow](http://www.stackoverflow.com)** - Stack Overflow has allowed people to find answers to questions they seek (about programming). Gone are the days of searching through forums for somebody with similar issues to yours. If you google an issue with a modern programming language, chances are the first dozen results are Stack Overflow questions and answers.
+
+**[Spotify](http://www.spotify.com)** - While not related to programming, Spotify does provide music, which helps keep me from getting distracted by outside influences. Spotify is a great service and a great interface. The library is huge and ad-free service is worth the price of the subscription if used on a regular basis. The daily mixes are getting better and better to my taste and I've actually discovered numerous bands I like from the "Discover Weekly" playlist they generate.
