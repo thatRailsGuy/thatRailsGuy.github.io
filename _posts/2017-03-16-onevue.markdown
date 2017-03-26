@@ -18,3 +18,7 @@ We started working on replacing the existing systems for Primex OneVue. We built
 The OneVue system utilizes an impressive array of cloud technologies. We use EC2, VPC, S3, RDS, Cloudfront, Route 53, Cloudwatch, API Gateway, Kinesis, and SQS. We've worked with MySQL, Postgres, Redis, and DynamoDB with different parts of our application. We use Rails, Python, and JS for our programs.
 
 Working on this app was interesting as my first experience writing a pure API. Focusing on scalability and efficiency in processing the readings coming from our sensors is also an interesting proposition, as well as reliability for the customers.
+
+
+***
+Header photo taken by Clint Cecil at Jackson Lake in Grand Teton National Park, Wyoming.

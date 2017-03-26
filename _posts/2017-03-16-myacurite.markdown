@@ -14,3 +14,7 @@ Once OneVue launched, the team shifted to work on [My AcuRite](https://www.myacu
 Most of the existing framework built for OneVue was applicable for My AcuRite. Most of the work done has been optimization and support for more custom endpoints to limit data transmission on mobile devices. We created a second bastion API which allows access to some of the same micro-services behind OneVue. We also now support native apps on iOS and Android.
 
 One other challenge in building the site was the migration of data from the old site. We worked with the old contractors to spec out an API to access customer data, then built a webpage that allowed users to enter username and password and import the data to the new site. This also triggered a flag to update the firmware of their devices to point at the new service. Once the firmware was updated, it started reporting data and would be automatically claimed by the "new" user in our system. We tested the system by sending invites to a few thousand users as beta testers and monitored the performance of our system.
+
+
+***
+Header photo taken by Clint Cecil at Tower Falls in Yellowstone National Park, Wyoming.
