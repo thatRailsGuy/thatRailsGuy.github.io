@@ -7,8 +7,10 @@ author:     "Clint Cecil"
 header-img: "img/basket-ball-header.jpg"
 ---
 
+### Article to be updated at end of NCAA Tournament.
+
 ## The Game
-A few years ago, we set out upon looking for ways to choose our draft order for fantasy football and I stumbled on an article about an alternative betting pool that didn't require much prior knowledge to win. I can't find the original source of the article (if you know it, please send it to me.)
+A few years ago, we set out upon looking for ways to choose our draft order for fantasy football and I stumbled on an article about an alternative betting pool that didn't require much prior knowledge to win. I think the original source of the method is Bill James, as linked [here](http://blogs.wsj.com/numbers/ncaa-bracket-math-1043/) but it's behind a paywall now.
 
 The gist of the game is that every participant picks one team from each seed. That is one 1 seed, one 2 seed, one 3 seed, etc. Each win that team earns earns the participant points. Points are based on seed, starting with 100 points for a 1 seed, 110 for a 2 seed, all the way down to 250 for a 16 seed win.
 
@@ -36,10 +38,18 @@ While simple, the app does a lot of calculations on the fly that I may run as a 
 
 I would also like to make a better interface for selecting teams, maybe something that highlights all the paths through the bracket there are for teams participants already selected so they don't end up picking teams that face each other in the first couple rounds. That would require a bit more logic in terms of the bracket structure. Currently there are team records with seeds, a boolean to show if they're eliminated, and win count.
 
-The other improvement would be an admin interface. I logged into the server and used the console to update each team's records with win counts and elimination status this year.
+The other improvement would be an admin interface. I logged into the server and used the console to update each team's records with win counts and elimination status this year. The alternative to this would be some sort of scraper which automatically updated scores.
 
 I'm hoping to open source the code and share it around to some other sports fans to see if anybody else likes the format for next year. This might also lead to some interesting pull requests to add features to the site.
 
+## Ideas for more games:
+* [A Better March Madness Pool by Erik Simpson](http://underlyinglogic.blogspot.com/2006/03/better-march-madness-pool.html)
+* [5 Alternative NCAA Tourney Pools](http://www.sportsonearth.com/article/219270426)
+* [Ted Gooley Method](http://www.slate.com/articles/sports/sports_nut/2013/03/ncaa_bracket_2013_bored_with_your_tourney_pool_here_are_11_alternate_ways.html)
+* [Point spread bracket lottery](http://aarontodd.casinocitytimes.com/article/top-10-betting-alternatives-to-an-ncaa-bracket-60629)
+
+
+I'm also planning to write an app for the fantasy football three-for-all this year, where we use standard fantasy scoring and pick one wide receiver, one running back, and one quarterback each week during the playoffs without being able to use any player more than once. We've run this before with some interesting results, but never had an app to calculate scores.
 
 ***
 Header courtesy of [http://www.freewebheaders.com](http://www.freewebheaders.com)
