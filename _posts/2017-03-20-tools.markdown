@@ -32,3 +32,7 @@ header-img: "img/12-yellowstone-lake.jpg"
 **[Stack Overflow](http://www.stackoverflow.com)** - Stack Overflow has allowed people to find answers to questions they seek (about programming). Gone are the days of searching through forums for somebody with similar issues to yours. If you google an issue with a modern programming language, chances are the first dozen results are Stack Overflow questions and answers.
 
 **[Spotify](http://www.spotify.com)** - While not related to programming, Spotify does provide music, which helps keep me from getting distracted by outside influences. Spotify is a great service and a great interface. The library is huge and ad-free service is worth the price of the subscription if used on a regular basis. The daily mixes are getting better and better to my taste and I've actually discovered numerous bands I like from the "Discover Weekly" playlist they generate.
+
+
+***
+Header photo taken by Clint Cecil at Yellowstone Lake in Yellowstone National Park, Wyoming.

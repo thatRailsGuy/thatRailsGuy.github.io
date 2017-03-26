@@ -23,3 +23,6 @@ As a graduate assistant, I developed skills in interpersonal communication as we
 I developed lasting friendships that have carried through to today with my fellow students in both programs at Frostburg. I even landed a job as a result of my contacts and the reputation of my peers.
 
 I can't recommend Frostburg's Math and Computer Science programs enough. I learned a ton, felt well prepared for my career, and made lasting relationships with professors and peers.
+
+***
+Header photo taken by Clint Cecil at Rocky Mountain National Park, Wyoming.
