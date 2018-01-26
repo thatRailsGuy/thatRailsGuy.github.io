@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Software Engineer, Mathematician, Analyst">
 
-    <title>Primex OneVue - Clint Cecil.com</title>
+    <title>Fantasy Three For All - Clint Cecil.com</title>
 
-    <link rel="canonical" href="http://localhost:4000/2017/03/16/onevue/">
+    <link rel="canonical" href="http://localhost:4000/2017/09/18/fantasy_three_for_all/">
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -82,16 +82,16 @@
 
 
     <!-- Post Header -->
-<header class="intro-header" style="background-image: url('/img/09-teton.jpg')">
+<header class="intro-header" style="background-image: url('/img/04-elk.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
-                    <h1>Primex OneVue</h1>
+                    <h1>Fantasy Three For All</h1>
                     
-                    <h2 class="subheading">My experience writing a cloud based API</h2>
+                    <h2 class="subheading">A fantasy game for the NFL Playoffs</h2>
                     
-                    <span class="meta">Posted by Clint Cecil on March 16, 2017</span>
+                    <span class="meta">Posted by Clint Cecil on September 18, 2017</span>
                 </div>
             </div>
         </div>
@@ -104,20 +104,21 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-				<p>I took a job with <a href="http://www.primexinc.com">Primex</a> in 2014 after meeting Kevin Runde at a Ruby Meetup shortly after moving back to Madison.</p>
+				<h2 id="the-game">The Game</h2>
+<p>I’m not sure who created the game, but a few years ago I was invited to play in a fantasy league during the NFL playoffs which had an interesting premise. It combined fantasy football, which normally ends in week 16 of the regular season, with a survivor pool. Each participant picks one quarterback, one running back, and one wide receiver each week of the playoffs. The participant is not allowed to pick the same player twice. Standard fantasy rules apply and a winner is calculated from total points.</p>
 
-<p>Kevin compiled one of the best teams I have ever been a part of. We started with a team of one DevOps administrator, one Architect, three members of the “service team” to work on the back-end API, and two members of the “UI team” to build the JS website.</p>
+<p>The allure of the game is that it allows one to continue playing fantasy football without entering into the fanduel type format. There are some interesting strategies as some participants will try to conserve players they think will make the super bowl, some participants will pick from only one conference until the super bowl, guaranteeing them starting players from the other conference, and some participants simply pick whoever they think will gain the most points. It’s always interesting when somebody has a lot of points but no starting quarterback in the super bowl.</p>
 
-<p><a href="https://www.primexonevue.com">OneVue</a> is a system for both environmental monitoring and time solutions for B2B consumers mostly consisting of schools and health systems. For schools, there are clocks that set themselves based on an NTP server as well as update statuses of connection and battery level through the web interface. For hospitals, there are a variety of sensors to measure environmental factors like temperature and humidity. When a measurement goes out of range, we send notification emails, phone calls, and text messages to a list of users. We also keep detailed logs for compliance purposes.</p>
+<h2 id="the-logistics-and-tech-behind-the-game">The Logistics and Tech Behind the Game</h2>
 
-<p>We started working on replacing the existing systems for Primex OneVue. We built from the ground up starting with some micro-services built in Ruby on Rails. Our rails apps deliver JSON exclusively. Between the front-end and the micro-services we have a bastion API. We have a separate ReactJS front-end that consumes the APIs through the bastion API.</p>
+<p>For the years I’ve run my own league, I have had participants email me their choices each week and I’ve manually calculated their scores using an excel spreadsheet.</p>
 
-<p>The OneVue system utilizes an impressive array of cloud technologies. We use EC2, VPC, S3, RDS, Cloudfront, Route 53, Cloudwatch, API Gateway, Kinesis, and SQS. We’ve worked with MySQL, Postgres, Redis, and DynamoDB with different parts of our application. We use Rails, Python, and JS for our programs.</p>
+<p>This year, I am planning to create a quick rails app which will allow for each player to make their picks and shows them who they have already picked. Scoring is a bit trickier, I may write some code to scrape data from a source to get reliable statistics with regular updates, or I may manually enter stats after the games are done.</p>
 
-<p>Working on this app was interesting as my first experience writing a pure API. Focusing on scalability and efficiency in processing the readings coming from our sensors is also an interesting proposition, as well as reliability for the customers.</p>
+<p>If you have new ideas for fantasy style games, please feel free to reach out and talk about them.</p>
 
 <hr />
-<p>Header photo taken by Clint Cecil at Jackson Lake in Grand Teton National Park, Wyoming.</p>
+<p>Header photo taken by Clint Cecil at Rocky Mountain National Park, Wyoming.</p>
 
 
                 <hr>
@@ -125,12 +126,12 @@
                 <ul class="pager">
                     
                     <li class="previous">
-                        <a href="/2017/03/16/ctac/" data-toggle="tooltip" data-placement="top" title="Job Experience at CTAC">&larr; Previous Post</a>
+                        <a href="/2017/03/25/bracketless_bracket/" data-toggle="tooltip" data-placement="top" title="Bracketless Bracket">&larr; Previous Post</a>
                     </li>
                     
                     
                     <li class="next">
-                        <a href="/2017/03/16/myacurite/" data-toggle="tooltip" data-placement="top" title="My AcuRite">Next Post &rarr;</a>
+                        <a href="/2018/01/23/On_Interviewing_and_hiring/" data-toggle="tooltip" data-placement="top" title="On Interviewing and Hiring">Next Post &rarr;</a>
                     </li>
                     
                 </ul>

@@ -1,4 +1,163 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.2">Jekyll</generator><link href="http://clintcecil.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://clintcecil.com/" rel="alternate" type="text/html" /><updated>2017-03-25T23:44:19-05:00</updated><id>http://clintcecil.com/</id><title type="html">Clint Cecil.com</title><subtitle>Software Engineer, Mathematician, Analyst</subtitle><entry><title type="html">Bracketless Bracket</title><link href="http://clintcecil.com/2017/03/25/bracketless_bracket/" rel="alternate" type="text/html" title="Bracketless Bracket" /><published>2017-03-25T17:00:00-05:00</published><updated>2017-03-25T17:00:00-05:00</updated><id>http://clintcecil.com/2017/03/25/bracketless_bracket</id><content type="html" xml:base="http://clintcecil.com/2017/03/25/bracketless_bracket/">&lt;h3 id=&quot;article-to-be-updated-at-end-of-ncaa-tournament&quot;&gt;Article to be updated at end of NCAA Tournament.&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-25T23:25:49-06:00</updated><id>http://localhost:4000/</id><title type="html">Clint Cecil.com</title><subtitle>Software Engineer, Mathematician, Analyst</subtitle><entry><title type="html">On Interviewing and Hiring</title><link href="http://localhost:4000/2018/01/23/On_Interviewing_and_hiring/" rel="alternate" type="text/html" title="On Interviewing and Hiring" /><published>2018-01-23T00:00:00-06:00</published><updated>2018-01-23T00:00:00-06:00</updated><id>http://localhost:4000/2018/01/23/On_Interviewing_and_hiring</id><content type="html" xml:base="http://localhost:4000/2018/01/23/On_Interviewing_and_hiring/">&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+&lt;p&gt;This post got out of hand as I started putting all my bitchiness to words. I didn’t start out to be so negative but the entire process is pretty negative and is still an open wound to pick at for me.&lt;/p&gt;
+
+&lt;p&gt;Due to unforeseen circumstances at my previous company, I started actively looking for work again a couple of months ago. After taking a few weeks off to try to organize myself and get my head straight, I started applying for jobs. After numerous interviews and a brief stint as a contractor I landed at the &lt;a href=&quot;http://www.wisc.edu&quot;&gt;University of Wisconsin&lt;/a&gt; supporting researchers at the &lt;a href=&quot;http:://www.glbrc.org&quot;&gt;Great Lakes Bioenergy Research Center&lt;/a&gt;. As a lead developer, it became my job to find some developers to fit our needs at the center. This switch has given me insight into how broken both sides of the interviewing system are.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-interviewing-sucks-as-a-candidate&quot;&gt;Why Interviewing Sucks as a Candidate&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Applying is a pain&lt;/strong&gt; - The number of companies which required me to upload a resume, then spend an hour filling out every piece of information from my resume in a 20 part web form is ridiculous. Repeating this process over and over again is defeating.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Recruiters&lt;/strong&gt; - Putting your information out there on Dice / Monster / LinkedIn / whatever other sites you feel appropriate is awful. I get daily calls asking me if I’d be interested in moving across the country to work on a three month contract working in wordpress for $12 an hour. I get email after email of recruiters that have obviously never read my resume sending me jobs I have no interest in or am nowhere nearly qualified for. Do yourself a favor and create a google voice number and new email for the job hunt that you can abandon afterwards. You can share your normal contact information with anyone you feel is worth keeping in contact with, I’m sure they won’t be offended as they’ve probably experienced the same thing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Getting through HR is hard.&lt;/strong&gt; - I’ve seen job descriptions requiring 6 years of HTML 5 experience (released late 2014). I’ve gotten math quiz questions that were unsolvable. I can’t count the number of times somebody thought Java and JavaScript were the same thing. It all boils down to non-technical people given a list of attributes being looked for and not having the common experience or even language to have the flexibility needed to filter good candidates from bad.&lt;/p&gt;
+
+    &lt;p&gt;That doesn’t stop them from filtering. It reminds me of this &lt;a href=&quot;http://www.jasonbock.net/jb/News/Item/7c334037d1a9437d9fa6506e2f35eaac&quot;&gt;classic post&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Having the specific combination of experience expected is often impossible&lt;/strong&gt; - The requirements for many positions posted are ridiculous and should be regarded more as a wishlist than requirements, but the people involved are often choosing beggars looking for someone who is an expert at all flavors of JavaScript while also being an expert in System Ops and Ruby / Python / etc. I’ve had people suggest that I couldn’t learn .net because I was a Ruby programmer. The truth is that the ability to learn new things and adapt to whatever is required is infinitely superior, but much harder to grasp from a resume.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Interviewing is time consuming&lt;/strong&gt; - At this point, most companies I interviewed with had a multi-stepped interview barrage that seemed to be designed to eat up all of your time and happiness to browbeat you into giving up your search. Starting with a time consuming web application, fighting your way through HR and ignoring the impossible requirement posted, you land a phone interview with an HR person. Then another phone interview with a developer. Then a video call. Then an in person interview or two.
+Add in a couple coding exercises, in languages you’ve never used and with a time limit on when they’re due. The time limit doesn’t take into account your time spent watching the baby, dealing with a death in the family, other interviews, or any other number of more important things in your life than dropping a days worth of work on the hopes of it leading to a job interview and that the position is actually something you want to do.&lt;/p&gt;
+
+    &lt;p&gt;The in-person interviews range from a couple of hours to an entire day. There are a flurry of people in and out while you sit there answering the same questions and contemplating how long it will be until you can take a break and use the restroom.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Interviewing is intimidating&lt;/strong&gt; - Having a group of strangers sit in a last supper format staring you down while pounding you with questions feels like you’re the subject of a Congressional Investigation. Add in the fact that you’ve worked a remote job for the last four years without talking to anybody in a professional setting like this and it’s unsettling. There is also the inherent need to land a job piling extra pressure on you to perform. As I’m sure many feel, socialization and public speaking aren’t the most natural skills for developers and the interview process is daunting.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;It’s hard to compete&lt;/strong&gt; - There is stiff competition out there for many positions, especially nationally posted remote positions. You’re competing with people from around the country for the chance to work remote. Those impossible requirements mentioned above? They had five people that blew those out of the water interview before you so good luck selling yourself.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;It’s hard to get what you’re worth&lt;/strong&gt; - Companies use any weakness they can find as an excuse to lowball you on an offer. Sometimes it’s hard to stand up for yourself and demand what you’re worth when you’re stressed about finding work and defeated by the whole process.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Interviewing costs money&lt;/strong&gt; - When unemployed, you start thinking about where every dollar is going and things like gas, parking, and dress clothes start to add up.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Interviewers want to hire themselves&lt;/strong&gt; - People tend to judge people more similar to them less harshly. Whether it’s race, sex, or background, people are more likely to hire someone that they see a reflection of themselves in. This isn’t always the case, but is prevalant and may mean the effort put in is for nothing if the wrong person wants to hire someone of the same race.&lt;/p&gt;
+
+    &lt;p&gt;This can be taken advantage of if you can find someone from the same town, same college, same former company, etc.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Coding tests are BS&lt;/strong&gt; - Remembering how to balance a binary tree doesn’t make you a good hire and forgetting doesn’t make you a bad one.&lt;/p&gt;
+
+    &lt;p&gt;Coding on a whiteboard or even just without using google and stack overflow is unrealistic to what daily jobs look like for most developers.&lt;/p&gt;
+
+    &lt;p&gt;Take home coding tests are time consuming and exploitable. Many are expected in the language / tools of the new position, which may be a foreign language to you. Most are delivered via github, thus exposing every applicant’s entry to each other. It’s usually rushed and finished with a lack of enthusiasm in my experience.&lt;/p&gt;
+
+    &lt;p&gt;The best coding tests I had were on the spot, given a computer with common tools and told to go as far as I could in a half hour. It’s respectful of time and a realistic examination of how someone works.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Interviewing is a skill that gets worse without practice&lt;/strong&gt; - If you haven’t interviewed in years, it’s hard to interview. It’s a skill that like most, without practice will wither away. Combine this with the fact that if you’ve been employed, you probably haven’t interviewed in a while and your odds go down without putting in leg work to practice interviews.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;It’s hard to sell yourself&lt;/strong&gt; - Nearly every good developer I know fights impostor syndrome constantly. Whether it is in a small office or on a global scale, it’s hard not to see the incredible things other people are doing and compare to the misplaced semicolon you spent a day debugging. It’s easy to see accomplishments in others and harder in yourself, and the reverse is true of shortcomings. This results in making selling yourself feeling like a lie.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;You may just not connect&lt;/strong&gt; - I had an interview where the company liked my resume and experience, liked me, but said I “wasn’t enthusiastic about working for them.” This was a misread on their part, as at the time it was a job I had talked about with my family and friends about how I hoped to land it. Sometimes the interviewer just misreads the candidate or the candidate doesn’t convey their skills or attitude well enough and it results in a missed connection.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Being ghosted is awful&lt;/strong&gt; - Interviewing at a place, completing coding tests, investing gas and parking money and time to jump through all the hoops, only to be left without any contact at all is too common. It’s killer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Sometimes it all comes down to luck&lt;/strong&gt; - It’s been suggested that researchers rate later candidates lower than ones interviewed earlier in the day. People judge harshly when hungry, thirsty, or needing a bathroom break. Maybe the interview you scheduled a week ago coincided with a production issue popping up that pulled the guy out of the room you had the best chance of connecting with and turning to your side. There is a lot of random luck in making a good impression and being competitive for a position.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;In general it is pointless&lt;/strong&gt; - Many interviewers lack the ability to make the best decision for who to hire. Interviewing skills and the skills needed during the course of work are often vastly different and success at one isn’t strongly correlated to the other.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;summary-of-why-interviewing-sucks-as-a-candidate&quot;&gt;Summary of Why Interviewing Sucks as a Candidate:&lt;/h3&gt;
+&lt;p&gt;Interviewing is time consuming, depressing, and largely fruitless.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-interviewing-sucks-as-an-interviewer&quot;&gt;Why Interviewing Sucks as an Interviewer&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Finding candidates is a pain&lt;/strong&gt; - Posting a job requires work to match the job description to the actual skills being hunted. You have to consider where you’re posting it and how to promote it to catch the eye of the perfect candidate. Being too descriptive leads to people not applying, but being to vague is also a turn-off.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Most candidates aren’t good&lt;/strong&gt; - Half of all people are below average, and most of the good ones already have jobs. Your selection pool is bound to draw a plethora of bad candidates for every good candidate.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Your HR department doesn’t know what makes a good candidate&lt;/strong&gt; - It’s like a bad game of telephone: you say you want someone with 5 years of experience and that has used VueJS and it somehow comes out that someone is required to have 5 years of VueJS experience (out for 3 years now). You and your candidate may speak a common language, but the HR department may not be on the same page.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Requirements are vague&lt;/strong&gt; - On the flip side, trying to hire for a position you don’t know much about is a common task, and doing your best is all you can do. But, like with many things when it comes to programming, requirements are vague and what is wanted and what is described are two different things.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Finding experienced candidates is near impossible&lt;/strong&gt; - Outside of some of the more common languages like Java, finding something like an experienced Ruby on Rails developer that can hit the ground running and contribute within a short period of time can be a daunting task.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Interviewing is time consuming&lt;/strong&gt; - Honestly reading resumes is very time consuming, as is contacting candidates, organizing interview schedules, doing phone screenings, writing interview questions, designing process around interviews, actually interviewing. Add in extra time for trying to advertise the position, recruit at meetups or contacting your network to find people. Throw in reviewing code submitted in a language you’ve never used for a coding test written a few years ago. You’re now in the time sink.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Candidates blend together&lt;/strong&gt; - When you read 40 resumes, you get tired. The ones at the top get a fairer shake due to fatigue, hunger, or whatever other distractions are going on. Same thing for interviews. Doing phone screenings, video calls, or actual interviews with multiple people leads to most of them seeming the same. It’s a hopeless feeling to have a dozen resumes on the table without a good way to tell them apart and having to roll the dice and be stuck with your decision.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Budget and other issues may limit what you can offer&lt;/strong&gt; - Maybe your company doesn’t have the budget for the salary someone wants. Maybe you can’t offer the time off they need. Maybe your benefits aren’t as good as another company’s. If all goes well, you’re going to be competing for the top candidate with other companies and sometimes you fall short when making an offer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Interviewing is a production killer&lt;/strong&gt; - You want your best people doing the interviewing. Talent is attracted to talent, and not only do the better people have a better eye for talent, they’re the better representatives of your company when you’re trying to recruit. Taking an hour of production from your best people is a huge sink. Taking an entire afternoon or morning (or day) is even worse.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Saying no feels bad&lt;/strong&gt; - A majority of candidates you interview would have their life significantly improved by taking the job you offer, so saying no to someone that’s already down on their luck is tough. Doing what’s right for you and your company is selfish but it’s survival of the fittest.&lt;/p&gt;
+
+    &lt;p&gt;The alternative may be that super nice guy you can’t get rid of that never accomplishes anything.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;It takes luck to find the right candidate&lt;/strong&gt; - The candidate pool is constantly in motion, churning out people and having others poured in. It may be that the perfect candidate just accepted another offer, or that at the moment they’re not looking. Odds are the perfect candidate exists and is already employed somewhere else.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;People suck at interviewing&lt;/strong&gt; - Especially tech people. Being able to sell yourself doesn’t make you a good programmer, and you may pass on someone that didn’t interview well that would have been a great asset to your team.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;summary-of-why-interviewing-sucks-as-an-interviewer&quot;&gt;Summary of Why Interviewing Sucks as an Interviewer:&lt;/h3&gt;
+&lt;p&gt;Interviewing is time consuming, depressing, and largely fruitless.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-what-is-good-about-interviews&quot;&gt;So What is Good About Interviews?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Meeting People&lt;/strong&gt; - Interviewing as an interviewer or as a candidate is a great way to meet interesting people with similar interests and in similar fields to your own. I’ve hit it off with multiple interviewers, even when the job didn’t work out.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Interviewing gets easier the more you do it&lt;/strong&gt; - Sure it’s always depressing and a time sink, but as you practice more, it’s slightly more cheerful and slightly less time consuming.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;You might get lucky&lt;/strong&gt; - With persistance, you can find good jobs and good candidates. It pays off in the long run, but can be a brutal process whilst in the midst of it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;It’s better than not interviewing&lt;/strong&gt; - The reason we interview is that we have to do something. You need a job or you need an asset. Focus on the end goal and not on the process of the first step on that path.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-can-be-improved&quot;&gt;What Can be Improved?&lt;/h2&gt;
+&lt;p&gt;I’m sure better minds than mine have tried for the history of employment to find better ways to hire people. The best thing to do is learn from your mistakes and the mistakes of others and do your best.&lt;/p&gt;
+
+&lt;p&gt;If you’ve got some kind of mind blowing techniques, send them to me, I’m all ears.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Header photo taken by Clint Cecil at Rocky Mountain National Park, Wyoming.&lt;/p&gt;</content><author><name>Clint Cecil</name></author><summary type="html">Background This post got out of hand as I started putting all my bitchiness to words. I didn’t start out to be so negative but the entire process is pretty negative and is still an open wound to pick at for me.</summary></entry><entry><title type="html">Fantasy Three For All</title><link href="http://localhost:4000/2017/09/18/fantasy_three_for_all/" rel="alternate" type="text/html" title="Fantasy Three For All" /><published>2017-09-18T09:00:00-05:00</published><updated>2017-09-18T09:00:00-05:00</updated><id>http://localhost:4000/2017/09/18/fantasy_three_for_all</id><content type="html" xml:base="http://localhost:4000/2017/09/18/fantasy_three_for_all/">&lt;h2 id=&quot;the-game&quot;&gt;The Game&lt;/h2&gt;
+&lt;p&gt;I’m not sure who created the game, but a few years ago I was invited to play in a fantasy league during the NFL playoffs which had an interesting premise. It combined fantasy football, which normally ends in week 16 of the regular season, with a survivor pool. Each participant picks one quarterback, one running back, and one wide receiver each week of the playoffs. The participant is not allowed to pick the same player twice. Standard fantasy rules apply and a winner is calculated from total points.&lt;/p&gt;
+
+&lt;p&gt;The allure of the game is that it allows one to continue playing fantasy football without entering into the fanduel type format. There are some interesting strategies as some participants will try to conserve players they think will make the super bowl, some participants will pick from only one conference until the super bowl, guaranteeing them starting players from the other conference, and some participants simply pick whoever they think will gain the most points. It’s always interesting when somebody has a lot of points but no starting quarterback in the super bowl.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-logistics-and-tech-behind-the-game&quot;&gt;The Logistics and Tech Behind the Game&lt;/h2&gt;
+
+&lt;p&gt;For the years I’ve run my own league, I have had participants email me their choices each week and I’ve manually calculated their scores using an excel spreadsheet.&lt;/p&gt;
+
+&lt;p&gt;This year, I am planning to create a quick rails app which will allow for each player to make their picks and shows them who they have already picked. Scoring is a bit trickier, I may write some code to scrape data from a source to get reliable statistics with regular updates, or I may manually enter stats after the games are done.&lt;/p&gt;
+
+&lt;p&gt;If you have new ideas for fantasy style games, please feel free to reach out and talk about them.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Header photo taken by Clint Cecil at Rocky Mountain National Park, Wyoming.&lt;/p&gt;</content><author><name>Clint Cecil</name></author><summary type="html">The Game I’m not sure who created the game, but a few years ago I was invited to play in a fantasy league during the NFL playoffs which had an interesting premise. It combined fantasy football, which normally ends in week 16 of the regular season, with a survivor pool. Each participant picks one quarterback, one running back, and one wide receiver each week of the playoffs. The participant is not allowed to pick the same player twice. Standard fantasy rules apply and a winner is calculated from total points.</summary></entry><entry><title type="html">Bracketless Bracket</title><link href="http://localhost:4000/2017/03/25/bracketless_bracket/" rel="alternate" type="text/html" title="Bracketless Bracket" /><published>2017-03-25T17:00:00-05:00</published><updated>2017-03-25T17:00:00-05:00</updated><id>http://localhost:4000/2017/03/25/bracketless_bracket</id><content type="html" xml:base="http://localhost:4000/2017/03/25/bracketless_bracket/">&lt;h3 id=&quot;article-updated-at-end-of-ncaa-tournament&quot;&gt;Article updated at end of NCAA Tournament.&lt;/h3&gt;
 
 &lt;h2 id=&quot;the-game&quot;&gt;The Game&lt;/h2&gt;
 &lt;p&gt;A few years ago, we set out upon looking for ways to choose our draft order for fantasy football and I stumbled on an article about an alternative betting pool that didn’t require much prior knowledge to win. I think the original source of the method is Bill James, as linked &lt;a href=&quot;http://blogs.wsj.com/numbers/ncaa-bracket-math-1043/&quot;&gt;here&lt;/a&gt; but it’s behind a paywall now.&lt;/p&gt;
@@ -11,11 +170,11 @@
 
 &lt;p&gt;This year, with half the elite eight games complete, I think the winner has been determined. I haven’t run all the numbers, but from a cursory glance it would seem the leader is uncatchable with the lineups of the other participants. Personally, I would have finished last if it weren’t for my Dad performing even worse than I did.&lt;/p&gt;
 
-&lt;p&gt;This year we expanded to have 19 teams competing. We have one tie currently, but the players have opposing teams facing off in the next round to break the tie. I will update once the bracket is complete with final results.&lt;/p&gt;
+&lt;p&gt;This year we expanded to have 19 teams competing. We ended up having two ties deep in the field, but none in the places for money. One would have been broken with total win count. A pick for final score in the final might also help too.&lt;/p&gt;
 
 &lt;p&gt;I would like to invite more people, but I fear that if too many people join there will be more issues of ties in the game. This may end being an interesting statistical problem to determine maximum number of participants without the likelihood of a tie for the top few spots.&lt;/p&gt;
 
-&lt;p&gt;While there are 2^32 sets of teams possible to choose, many of the choices end up being equivalent from a score perspective. For instance, this year, no 13, 14, 15, or 16 seed won a game. With all the ties at different seed levels there were essentially 46,656 unique scores of the original 4,294,967,296 lineups (as of 3/25 with 5 games left). This isn’t eliminating ways you can tie with different lineups, just eliminates differences when multiple teams of the same seed scored the same number of wins.&lt;/p&gt;
+&lt;p&gt;While there are 2^32 sets of teams possible to choose, many of the choices end up being equivalent from a score perspective. For instance, this year, no 13, 14, 15, or 16 seed won a game. With all the ties at different seed levels there were essentially 82,944 unique scores of the original 4,294,967,296 lineups (as of 3/25 with 5 games left). This isn’t eliminating ways you can tie with different lineups, just eliminates differences when multiple teams of the same seed scored the same number of wins.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-logistics-and-tech-behind-the-game&quot;&gt;The Logistics and Tech Behind the Game&lt;/h2&gt;
 
@@ -44,7 +203,7 @@
 &lt;p&gt;I’m also planning to write an app for the fantasy football three-for-all this year, where we use standard fantasy scoring and pick one wide receiver, one running back, and one quarterback each week during the playoffs without being able to use any player more than once. We’ve run this before with some interesting results, but never had an app to calculate scores.&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;Header courtesy of &lt;a href=&quot;http://www.freewebheaders.com&quot;&gt;http://www.freewebheaders.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Clint Cecil</name></author><summary type="html">Article to be updated at end of NCAA Tournament.</summary></entry><entry><title type="html">Tools</title><link href="http://clintcecil.com/2017/03/20/tools/" rel="alternate" type="text/html" title="Tools" /><published>2017-03-20T11:09:00-05:00</published><updated>2017-03-20T11:09:00-05:00</updated><id>http://clintcecil.com/2017/03/20/tools</id><content type="html" xml:base="http://clintcecil.com/2017/03/20/tools/">&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.apple.com&quot;&gt;Macbook Pro&lt;/a&gt;&lt;/strong&gt; - The Macbook Pro has met every need I’ve had. I miss the expandable memory and storage of the older models though. I’m not sold on the new version of the Macbook Pro. I don’t think I could go back to Windows full-time at this point though, although I do keep threatening to switch to a linux environment.&lt;/p&gt;
+&lt;p&gt;Header courtesy of &lt;a href=&quot;http://www.freewebheaders.com&quot;&gt;http://www.freewebheaders.com&lt;/a&gt;&lt;/p&gt;</content><author><name>Clint Cecil</name></author><summary type="html">Article updated at end of NCAA Tournament.</summary></entry><entry><title type="html">Tools</title><link href="http://localhost:4000/2017/03/20/tools/" rel="alternate" type="text/html" title="Tools" /><published>2017-03-20T11:09:00-05:00</published><updated>2017-03-20T11:09:00-05:00</updated><id>http://localhost:4000/2017/03/20/tools</id><content type="html" xml:base="http://localhost:4000/2017/03/20/tools/">&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.apple.com&quot;&gt;Macbook Pro&lt;/a&gt;&lt;/strong&gt; - The Macbook Pro has met every need I’ve had. I miss the expandable memory and storage of the older models though. I’m not sold on the new version of the Macbook Pro. I don’t think I could go back to Windows full-time at this point though, although I do keep threatening to switch to a linux environment.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.iterm2.com/documentation-highlights.html&quot;&gt;iTerm2&lt;/a&gt;&lt;/strong&gt; - iTerm2 version 3 has many features that are of great use while programming. Features I use regularly include split panes (cmd-d and cmd-shift-d), cmd-click filenames to edit that file, and the paste history. There are more features than I can remember, and the app increases productivity almost instantly.&lt;/p&gt;
 
@@ -71,7 +230,7 @@
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.spotify.com&quot;&gt;Spotify&lt;/a&gt;&lt;/strong&gt; - While not related to programming, Spotify does provide music, which helps keep me from getting distracted by outside influences. Spotify is a great service and a great interface. The library is huge and ad-free service is worth the price of the subscription if used on a regular basis. The daily mixes are getting better and better to my taste and I’ve actually discovered numerous bands I like from the “Discover Weekly” playlist they generate.&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;Header photo taken by Clint Cecil at Yellowstone Lake in Yellowstone National Park, Wyoming.&lt;/p&gt;</content><author><name>Clint Cecil</name></author><summary type="html">Macbook Pro - The Macbook Pro has met every need I’ve had. I miss the expandable memory and storage of the older models though. I’m not sold on the new version of the Macbook Pro. I don’t think I could go back to Windows full-time at this point though, although I do keep threatening to switch to a linux environment.</summary></entry><entry><title type="html">My AcuRite</title><link href="http://clintcecil.com/2017/03/16/myacurite/" rel="alternate" type="text/html" title="My AcuRite" /><published>2017-03-16T09:38:00-05:00</published><updated>2017-03-16T09:38:00-05:00</updated><id>http://clintcecil.com/2017/03/16/myacurite</id><content type="html" xml:base="http://clintcecil.com/2017/03/16/myacurite/">&lt;p&gt;Once OneVue launched, the team shifted to work on &lt;a href=&quot;https://www.myacurite.com&quot;&gt;My AcuRite&lt;/a&gt;. My AcuRite is a site dedicated to home environmental monitoring using devices manufactured by Chaney Electronics under the AcuRite brand. Sensor types include temperature, humidity, wind speed and direction, rainfall, lightning proximity, light intensity, and water detection. The site offers monitoring that will notify users when sensors go out of range, useful for things like detecting freezing around pipes or the presence of water in a basement.&lt;/p&gt;
+&lt;p&gt;Header photo taken by Clint Cecil at Yellowstone Lake in Yellowstone National Park, Wyoming.&lt;/p&gt;</content><author><name>Clint Cecil</name></author><summary type="html">Macbook Pro - The Macbook Pro has met every need I’ve had. I miss the expandable memory and storage of the older models though. I’m not sold on the new version of the Macbook Pro. I don’t think I could go back to Windows full-time at this point though, although I do keep threatening to switch to a linux environment.</summary></entry><entry><title type="html">My AcuRite</title><link href="http://localhost:4000/2017/03/16/myacurite/" rel="alternate" type="text/html" title="My AcuRite" /><published>2017-03-16T09:38:00-05:00</published><updated>2017-03-16T09:38:00-05:00</updated><id>http://localhost:4000/2017/03/16/myacurite</id><content type="html" xml:base="http://localhost:4000/2017/03/16/myacurite/">&lt;p&gt;Once OneVue launched, the team shifted to work on &lt;a href=&quot;https://www.myacurite.com&quot;&gt;My AcuRite&lt;/a&gt;. My AcuRite is a site dedicated to home environmental monitoring using devices manufactured by Chaney Electronics under the AcuRite brand. Sensor types include temperature, humidity, wind speed and direction, rainfall, lightning proximity, light intensity, and water detection. The site offers monitoring that will notify users when sensors go out of range, useful for things like detecting freezing around pipes or the presence of water in a basement.&lt;/p&gt;
 
 &lt;p&gt;“Smart Hubs” are paired with each sensor and connected to the internet to send data to the servers. These hubs send sensor data to our servers a few times per minute. This presents an interesting challenge in scalability as we are processing approximately four hundred thousand requests per hour. Micro-services handle the load by scaling independently to process data, relying on queueing systems to keep everything cohesive.&lt;/p&gt;
 
@@ -80,7 +239,7 @@
 &lt;p&gt;One other challenge in building the site was the migration of data from the old site. We worked with the old contractors to spec out an API to access customer data, then built a webpage that allowed users to enter username and password and import the data to the new site. This also triggered a flag to update the firmware of their devices to point at the new service. Once the firmware was updated, it started reporting data and would be automatically claimed by the “new” user in our system. We tested the system by sending invites to a few thousand users as beta testers and monitored the performance of our system.&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;Header photo taken by Clint Cecil at Tower Falls in Yellowstone National Park, Wyoming.&lt;/p&gt;</content><author><name>Clint Cecil</name></author><summary type="html">Once OneVue launched, the team shifted to work on My AcuRite. My AcuRite is a site dedicated to home environmental monitoring using devices manufactured by Chaney Electronics under the AcuRite brand. Sensor types include temperature, humidity, wind speed and direction, rainfall, lightning proximity, light intensity, and water detection. The site offers monitoring that will notify users when sensors go out of range, useful for things like detecting freezing around pipes or the presence of water in a basement.</summary></entry><entry><title type="html">Primex OneVue</title><link href="http://clintcecil.com/2017/03/16/onevue/" rel="alternate" type="text/html" title="Primex OneVue" /><published>2017-03-16T05:09:00-05:00</published><updated>2017-03-16T05:09:00-05:00</updated><id>http://clintcecil.com/2017/03/16/onevue</id><content type="html" xml:base="http://clintcecil.com/2017/03/16/onevue/">&lt;p&gt;I took a job with &lt;a href=&quot;http://www.primexinc.com&quot;&gt;Primex&lt;/a&gt; in 2014 after meeting Kevin Runde at a Ruby Meetup shortly after moving back to Madison.&lt;/p&gt;
+&lt;p&gt;Header photo taken by Clint Cecil at Tower Falls in Yellowstone National Park, Wyoming.&lt;/p&gt;</content><author><name>Clint Cecil</name></author><summary type="html">Once OneVue launched, the team shifted to work on My AcuRite. My AcuRite is a site dedicated to home environmental monitoring using devices manufactured by Chaney Electronics under the AcuRite brand. Sensor types include temperature, humidity, wind speed and direction, rainfall, lightning proximity, light intensity, and water detection. The site offers monitoring that will notify users when sensors go out of range, useful for things like detecting freezing around pipes or the presence of water in a basement.</summary></entry><entry><title type="html">Primex OneVue</title><link href="http://localhost:4000/2017/03/16/onevue/" rel="alternate" type="text/html" title="Primex OneVue" /><published>2017-03-16T05:09:00-05:00</published><updated>2017-03-16T05:09:00-05:00</updated><id>http://localhost:4000/2017/03/16/onevue</id><content type="html" xml:base="http://localhost:4000/2017/03/16/onevue/">&lt;p&gt;I took a job with &lt;a href=&quot;http://www.primexinc.com&quot;&gt;Primex&lt;/a&gt; in 2014 after meeting Kevin Runde at a Ruby Meetup shortly after moving back to Madison.&lt;/p&gt;
 
 &lt;p&gt;Kevin compiled one of the best teams I have ever been a part of. We started with a team of one DevOps administrator, one Architect, three members of the “service team” to work on the back-end API, and two members of the “UI team” to build the JS website.&lt;/p&gt;
 
@@ -93,7 +252,7 @@
 &lt;p&gt;Working on this app was interesting as my first experience writing a pure API. Focusing on scalability and efficiency in processing the readings coming from our sensors is also an interesting proposition, as well as reliability for the customers.&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;Header photo taken by Clint Cecil at Jackson Lake in Grand Teton National Park, Wyoming.&lt;/p&gt;</content><author><name>Clint Cecil</name></author><summary type="html">I took a job with Primex in 2014 after meeting Kevin Runde at a Ruby Meetup shortly after moving back to Madison.</summary></entry><entry><title type="html">Job Experience at CTAC</title><link href="http://clintcecil.com/2017/03/16/ctac/" rel="alternate" type="text/html" title="Job Experience at CTAC" /><published>2017-03-16T05:09:00-05:00</published><updated>2017-03-16T05:09:00-05:00</updated><id>http://clintcecil.com/2017/03/16/ctac</id><content type="html" xml:base="http://clintcecil.com/2017/03/16/ctac/">&lt;p&gt;In 2011, after about a year at Epic, I decided to pack up and head back east to work with some college buddies at &lt;a href=&quot;https://www.ctacorp.com/&quot;&gt;CTAC&lt;/a&gt; in Fairfax, VA.&lt;/p&gt;
+&lt;p&gt;Header photo taken by Clint Cecil at Jackson Lake in Grand Teton National Park, Wyoming.&lt;/p&gt;</content><author><name>Clint Cecil</name></author><summary type="html">I took a job with Primex in 2014 after meeting Kevin Runde at a Ruby Meetup shortly after moving back to Madison.</summary></entry><entry><title type="html">Job Experience at CTAC</title><link href="http://localhost:4000/2017/03/16/ctac/" rel="alternate" type="text/html" title="Job Experience at CTAC" /><published>2017-03-16T05:09:00-05:00</published><updated>2017-03-16T05:09:00-05:00</updated><id>http://localhost:4000/2017/03/16/ctac</id><content type="html" xml:base="http://localhost:4000/2017/03/16/ctac/">&lt;p&gt;In 2011, after about a year at Epic, I decided to pack up and head back east to work with some college buddies at &lt;a href=&quot;https://www.ctacorp.com/&quot;&gt;CTAC&lt;/a&gt; in Fairfax, VA.&lt;/p&gt;
 
 &lt;p&gt;CTAC was a shock to the system after Epic. The team dynamic was a lot smaller and seemed closer knit. I became good friends with most of my coworkers and started learning how to write dynamic web apps.&lt;/p&gt;
 
@@ -106,7 +265,7 @@
 &lt;p&gt;One thing I can say about getting out of government contracting is there are a lot less meetings now than when I was there. With so many eyes on the projects and so many people with vested interest, it was hard to just get work done and make something useful.&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;Header photo taken by Clint Cecil at Rocky Mountain National Park, Wyoming.&lt;/p&gt;</content><author><name>Clint Cecil</name></author><summary type="html">In 2011, after about a year at Epic, I decided to pack up and head back east to work with some college buddies at CTAC in Fairfax, VA.</summary></entry><entry><title type="html">Job Experience at Epic</title><link href="http://clintcecil.com/2017/03/15/epic/" rel="alternate" type="text/html" title="Job Experience at Epic" /><published>2017-03-15T06:36:00-05:00</published><updated>2017-03-15T06:36:00-05:00</updated><id>http://clintcecil.com/2017/03/15/epic</id><content type="html" xml:base="http://clintcecil.com/2017/03/15/epic/">&lt;p&gt;In 2010, with no idea where to even begin looking for a job, I started searching the internet for where to go make my fortune. After a short time of looking online at different positions and realizing there was not much to choose from in Western MD and the surrounding areas, &lt;a href=&quot;http://www.epic.com&quot;&gt;Epic&lt;/a&gt; in Verona, WI contacted me regarding my resume posted online.&lt;/p&gt;
+&lt;p&gt;Header photo taken by Clint Cecil at Rocky Mountain National Park, Wyoming.&lt;/p&gt;</content><author><name>Clint Cecil</name></author><summary type="html">In 2011, after about a year at Epic, I decided to pack up and head back east to work with some college buddies at CTAC in Fairfax, VA.</summary></entry><entry><title type="html">Job Experience at Epic</title><link href="http://localhost:4000/2017/03/15/epic/" rel="alternate" type="text/html" title="Job Experience at Epic" /><published>2017-03-15T06:36:00-05:00</published><updated>2017-03-15T06:36:00-05:00</updated><id>http://localhost:4000/2017/03/15/epic</id><content type="html" xml:base="http://localhost:4000/2017/03/15/epic/">&lt;p&gt;In 2010, with no idea where to even begin looking for a job, I started searching the internet for where to go make my fortune. After a short time of looking online at different positions and realizing there was not much to choose from in Western MD and the surrounding areas, &lt;a href=&quot;http://www.epic.com&quot;&gt;Epic&lt;/a&gt; in Verona, WI contacted me regarding my resume posted online.&lt;/p&gt;
 
 &lt;p&gt;I had never thought of Wisconsin as a place I would ever want to visit, let alone live, but decided to go check out both the area and the company. As soon as I got to Madison I loved it.&lt;/p&gt;
 
@@ -121,7 +280,7 @@
 &lt;p&gt;I think the experience at Epic was a good one. Most of my friends in Madison either work there or used to. I learned a lot and enjoyed living on my own in a strange city for the first time. I think if I were to go back I would enjoy it more and have more success with the maturity I’ve developed over the last several years.&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;Header photo taken by Clint Cecil at Rocky Mountain National Park, Wyoming.&lt;/p&gt;</content><author><name>Clint Cecil</name></author><summary type="html">In 2010, with no idea where to even begin looking for a job, I started searching the internet for where to go make my fortune. After a short time of looking online at different positions and realizing there was not much to choose from in Western MD and the surrounding areas, Epic in Verona, WI contacted me regarding my resume posted online.</summary></entry><entry><title type="html">College Experience at Frostburg</title><link href="http://clintcecil.com/2017/03/15/frostburg/" rel="alternate" type="text/html" title="College Experience at Frostburg" /><published>2017-03-15T05:36:00-05:00</published><updated>2017-03-15T05:36:00-05:00</updated><id>http://clintcecil.com/2017/03/15/frostburg</id><content type="html" xml:base="http://clintcecil.com/2017/03/15/frostburg/">&lt;p&gt;I attended &lt;a href=&quot;http://www.frostburg.edu&quot;&gt;FSU&lt;/a&gt; from 2005 to 2010 for both my B.S. and M.S. degrees. I graduated from FSU with a B.S. in Mathematics in 2008 and stayed on to get a M.S. in Computer Science in 2010.&lt;/p&gt;
+&lt;p&gt;Header photo taken by Clint Cecil at Rocky Mountain National Park, Wyoming.&lt;/p&gt;</content><author><name>Clint Cecil</name></author><summary type="html">In 2010, with no idea where to even begin looking for a job, I started searching the internet for where to go make my fortune. After a short time of looking online at different positions and realizing there was not much to choose from in Western MD and the surrounding areas, Epic in Verona, WI contacted me regarding my resume posted online.</summary></entry><entry><title type="html">College Experience at Frostburg</title><link href="http://localhost:4000/2017/03/15/frostburg/" rel="alternate" type="text/html" title="College Experience at Frostburg" /><published>2017-03-15T05:36:00-05:00</published><updated>2017-03-15T05:36:00-05:00</updated><id>http://localhost:4000/2017/03/15/frostburg</id><content type="html" xml:base="http://localhost:4000/2017/03/15/frostburg/">&lt;p&gt;I attended &lt;a href=&quot;http://www.frostburg.edu&quot;&gt;FSU&lt;/a&gt; from 2005 to 2010 for both my B.S. and M.S. degrees. I graduated from FSU with a B.S. in Mathematics in 2008 and stayed on to get a M.S. in Computer Science in 2010.&lt;/p&gt;
 
 &lt;p&gt;I originally started at the University of MD, but transferred after a year and a half. The differences were immense. I went from the feeling of being “just a number” to getting an individualized education in a smaller school. I can’t praise Frostburg enough.&lt;/p&gt;
 
