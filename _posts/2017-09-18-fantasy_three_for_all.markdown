@@ -5,6 +5,7 @@ subtitle:   "A fantasy game for the NFL Playoffs"
 date:       2017-09-18 14:00:00
 author:     "Clint Cecil"
 header-img: "img/04-elk.jpg"
+header-img-text: "Elk in a field"
 ---
 
 
