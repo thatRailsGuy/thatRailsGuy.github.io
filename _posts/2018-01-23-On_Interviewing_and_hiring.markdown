@@ -17,7 +17,7 @@ Due to unforeseen circumstances at my previous company, I started actively looki
 
 * **Applying is a pain** - The number of companies which required me to upload a resume, then spend an hour filling out every piece of information from my resume in a 20 part web form is ridiculous. Repeating this process over and over again is defeating.
 
-* **Recruiters** - Putting your information out there on Dice / Monster / LinkedIn / whatever other sites you feel appropriate is awful. I get daily calls asking me if I'd be interested in moving across the country to work on a three month contract working in wordpress for $12 an hour. I get email after email of recruiters that have obviously never read my resume sending me jobs I have no interest in or am nowhere nearly qualified for. Do yourself a favor and create a google voice number and new email for the job hunt that you can abandon afterwards. You can share your normal contact information with anyone you feel is worth keeping in contact with, I'm sure they won't be offended as they've probably experienced the same thing.
+* **Recruiters** - Putting your information out there on Dice / Monster / LinkedIn / whatever other sites you feel appropriate is awful. I get daily calls asking me if I'd be interested in moving across the country to work on a three month contract working in wordpress for $12 an hour. I get email after email of recruiters that have obviously never read my resume sending me jobs I have no interest in or am nowhere nearly qualified for. Do yourself a favor and create a google voice number and new email for the job hunt that you can abandon afterwards. You can share your normal contact information with anyone you feel is worth keeping in contact with, I'm sure they won't be offended as they've probably experienced the same thing. (A few recruiters were awesome to me, and worked hard to get me a job. I'm going to reach out and see if I can mention them by name, but if they're on my linkedin connections they're probably at least OK. If you want a reference to a good recruiter in either Madison or DC let me know.)
 
 * **Getting through HR is hard.** - I've seen job descriptions requiring 6 years of HTML 5 experience (released late 2014). I've gotten math quiz questions that were unsolvable. I can't count the number of times somebody thought Java and JavaScript were the same thing. It all boils down to non-technical people given a list of attributes being looked for and not having the common experience or even language to have the flexibility needed to filter good candidates from bad.
 
@@ -105,10 +105,32 @@ Interviewing is time consuming, depressing, and largely fruitless.
 
 * **It's better than not interviewing** - The reason we interview is that we have to do something. You need a job or you need an asset. Focus on the end goal and not on the process of the first step on that path.
 
-## What Can be Improved?
-I'm sure better minds than mine have tried for the history of employment to find better ways to hire people. The best thing to do is learn from your mistakes and the mistakes of others and do your best.
+## How can you make interviewing for jobs better?
+* **Find jobs that aren't posted** - Talk to your contacts, go to meetups, talk to people in tech circles. If you can apply through a contact, the odds of you getting the job increase exponentially. 
 
-If you've got some kind of mind blowing techniques, send them to me, I'm all ears.
+* **Start by applying only for jobs you want** - Sometimes this isn't an option, but if the situation isn't too dire, be picky about where you're investing your time. This allows you to better prepare for the interviews at the ones you do apply for as well. 
+
+* **Discuss salary early** - Don't waste time only to find out what you're worth is outside what they're willing to pay. 
+
+* **Apply for jobs that don't exactly match your resume** - If the requirements are impossible to meet, odds are they're having a hard time finding the right person and you might be able to show that you'd be a good fit. 
+
+* **Practice interviewing** - Do practice interviews as much as possible to hone your skills. If you have a contact who actively does interviews, ask them to do a mock interview. If you have the chance at your current position to participate on the other side of the table, the experience will be invaluable to you when you need to interview again. 
+
+* **Don't get too discouraged** - Something will come along and every interview you do you'll get a little bit better. 
+
+## How can you make interviewing candidates better?
+* **Limit time spent on interviewing candidates** - It's always going to be time consuming, but finding ways to filter out candidates early and taking out ineffective parts of the interview process can make it go smoother.
+
+* **Find the good candidates** - Try going to meetups, tech hangouts, or searching through connections to find worthwhile people to hire. 
+
+* **Put your best people on it** - While it is a hassle to "waste" the time of your all-star people, they are more than likely the best equipped to filter through to find the best candidates. 
+
+* **Don't be afraid to move on** - Keep from dragging out a bad interview. Don't be afraid to give up on this round of candidates and repost the job to find someone that is the right fit. 
+
+* **Don't waste time on somebody outside the salary range** - Salary expectations should be discussed as the first question. If what you're looking for an what they're expecting doesn't mesh, be honest and move on. 
+
+## What else can be improved? 
+If you've got some other ideas about improving interviews, hit me up on [twitter](https://twitter.com/thatrailsguy) or email. I'll add them on here or make another post.
 
 ***
 Header photo taken by Clint Cecil at Rocky Mountain National Park, Wyoming.
