@@ -2,7 +2,7 @@
 layout:     post
 title:      "On Interviewing and Hiring"
 subtitle:   "Two sides of the same crappy coin"
-date:       2018-01-23
+date:       2018-02-17
 author:     "Clint Cecil"
 header-img: "img/04-elk.jpg"
 ---
